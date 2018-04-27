@@ -1,7 +1,6 @@
 #!/bin/bash
 ./configure --prefix=/usr \
             --sysconfdir=/etc \
-            --disable-static \
             --with-readline=gnu &&
 make -j1 &&
 make DESTDIR="$SHED_FAKEROOT" \

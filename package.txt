@@ -1,6 +1,6 @@
 NAME=slang
 VERSION=2.3.2
-REVISION=1
+REVISION=2
 LICENSE=GPL-2.0-or-later
 SRC=http://www.jedsoft.org/releases/slang/slang-2.3.2.tar.bz2
 SRCMD5=c2d5a7aa0246627da490be4e399c87cb
